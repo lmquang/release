@@ -1,5 +1,5 @@
 bin: git
-style: ""
+style: "github"
 info:
   title: CHANGELOG
   repository_url: https://github.com/lmquang/release.git
