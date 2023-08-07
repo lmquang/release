@@ -3,49 +3,38 @@ style: "github"
 info:
   title: CHANGELOG
   repository_url: https://github.com/lmquang/release.git
-
 options:
   tag_filter_pattern: '^v'
-  sort: "date"
-
   commits:
     filters:
       Type:
         - feat
+        - fix
+        - perf
+        - refactor
+        - chore
     sort_by: Scope
-
   commit_groups:
     group_by: Type
     sort_by: Title
     title_order:
       - feat
+      - fix
+      - perf
+      - refactor
+      - chore
     title_maps:
       feat: Features
-
+      fix: Bug Fixes
+      perf: Performance Improvements
+      refactor: Code Refactoring
+      chore: Chores
   header:
-    pattern: "<regexp>"
+    pattern: "^(\\w*)(?:\\(([\\w\\$\\.\\-\\*\\s]*)\\))?\\:\\s(.*)$"
     pattern_maps:
-      - PropName
-
-  issues:
-    prefix:
-      - #
-
-  refs:
-    actions:
-      - Closes
-      - Fixes
-
-  merges:
-    pattern: "^Merge branch '(\\w+)'$"
-    pattern_maps:
-      - Source
-
-  reverts:
-    pattern: "^Revert \"([\\s\\S]*)\"$"
-    pattern_maps:
-      - Header
-
+      - Type
+      - Scope
+      - Subject
   notes:
     keywords:
       - BREAKING CHANGE
