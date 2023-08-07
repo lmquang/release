@@ -2,10 +2,19 @@
 ## [Unreleased]
 
 
+<a name="v0.0.3"></a>
+## [v0.0.3] - 2023-08-07
+### Bug Fixes
+- fix 3
+
+
 <a name="v0.0.2"></a>
 ## [v0.0.2] - 2023-08-07
 ### Bug Fixes
 - fix 1
+
+### Chores
+- update changelog
 
 ### Features
 - add feature changelog
@@ -20,5 +29,6 @@
 - first commit
 
 
-[Unreleased]: https://github.com/lmquang/release.git/compare/v0.0.2...HEAD
+[Unreleased]: https://github.com/lmquang/release.git/compare/v0.0.3...HEAD
+[v0.0.3]: https://github.com/lmquang/release.git/compare/v0.0.2...v0.0.3
 [v0.0.2]: https://github.com/lmquang/release.git/compare/v0.0.1...v0.0.2
