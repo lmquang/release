@@ -6,7 +6,7 @@ on:
       - "v*"
 
 jobs:
-  build:
+  post-release:
     name: "Create release"
     runs-on: ubuntu-latest
     steps:
@@ -21,7 +21,6 @@ jobs:
         uses: softprops/action-gh-release@v1
         with:
           body_path: RELEASE.md
-          draft: true
           token: ${{ secrets.GH_PAT }}
         env:
           GITHUB_REPOSITORY: lmquang/release
