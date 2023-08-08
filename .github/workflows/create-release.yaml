@@ -14,10 +14,10 @@ jobs:
       - uses: CSchoel/release-notes-from-changelog@v1
       - name: Create Release using GitHub CLI
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         run: >
           gh release create
           -d
           -F RELEASE.md
-          -t "Version $RELEASE_VERSION"
+          -t "Version v$RELEASE_VERSION"
           ${GITHUB_REF#refs/*/}
