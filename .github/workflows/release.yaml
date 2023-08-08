@@ -1,0 +1,22 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - "v*"
+
+jobs:
+  build:
+    name: "Create release"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Generate release notes
+        run: docker run -v "$PWD":/workdir quay.io/git-chglog/git-chglog ${GITHUB_REF_NAME} -o RELEASE.md
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        with:
+          body_path: RELEASE.md
+          token: ${{ secrets.GH_PAT }}
+        env:
+          GITHUB_REPOSITORY: lmquang/release
