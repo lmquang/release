@@ -4,3 +4,7 @@ push:
 
 .PHONY: release
 	some release cmd
+
+.PHONY: release-rc
+release-rc:
+	some release cmd --rc
