@@ -1,16 +1,4 @@
 {{ if .Versions -}}
-<a name="unreleased"></a>
-## [Unreleased]
-
-{{ if .Unreleased.CommitGroups -}}
-{{ range .Unreleased.CommitGroups -}}
-### {{ .Title }}
-{{ range .Commits -}}
-- {{ if .Scope }}**{{ .Scope }}:** {{ end }}{{ .Subject }}
-{{ end }}
-{{ end -}}
-{{ end -}}
-{{ end -}}
 
 {{ range .Versions }}
 <a name="{{ .Tag.Name }}"></a>
