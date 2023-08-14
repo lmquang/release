@@ -1,3 +1,25 @@
+# [0.7.0](https://github.com/lmquang/release/compare/v0.6.0...v0.7.0) (2023-08-14)
+
+
+### Bug Fixes
+
+* abc ([9d4e5cc](https://github.com/lmquang/release/commit/9d4e5cc9eae71433e2904fae2a70d38fe0e0510a))
+* abcd ([09202c3](https://github.com/lmquang/release/commit/09202c3f62530f30983a1ee50e5ca51c5f1d972e))
+* cannot create changelog when releasing ([b55219d](https://github.com/lmquang/release/commit/b55219d6672c5e2b4f1884eeea4198fc2f15bbad))
+* cannot create changelog when releasing ([ee2931e](https://github.com/lmquang/release/commit/ee2931ebc2f3e4be6f6b1f1c8931571b29c218c9))
+* cfg ([5629d52](https://github.com/lmquang/release/commit/5629d5201eda5bb26aac9bf952879b6d25c59afe))
+* fix any ([1f42906](https://github.com/lmquang/release/commit/1f42906c09a36c6270effc46518d200494ff2690))
+* remove skip ci when creating tag ([04bbb1d](https://github.com/lmquang/release/commit/04bbb1d0f5b00122c7b78f8e7b6205d6ba336f95))
+
+
+### Features
+
+* add buid release ([343c4e1](https://github.com/lmquang/release/commit/343c4e18236406f24b15ecf6e7016cb94a0b3a65))
+* add new feat 070 ([79373b1](https://github.com/lmquang/release/commit/79373b19c49438eae13ee0849298eb3a36848049))
+* add prerelease event ([00a35ca](https://github.com/lmquang/release/commit/00a35cabfbca60c572bf3672d79c20c50d9226dc))
+* add release rc cfg ([b74d40c](https://github.com/lmquang/release/commit/b74d40cd01437c6a455c4c3ab1c76a8d6a824d42))
+* update release GA ([cd0ede4](https://github.com/lmquang/release/commit/cd0ede495fb485e9fd5540fd287fd33d15f6efe1))
+
 # [0.7.0-rc.11](https://github.com/lmquang/release/compare/v0.7.0-rc.10...v0.7.0-rc.11) (2023-08-14)
 
 
