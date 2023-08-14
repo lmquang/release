@@ -1,3 +1,11 @@
+# [0.7.0-rc.2](https://github.com/lmquang/release/compare/v0.7.0-rc.1...v0.7.0-rc.2) (2023-08-14)
+
+
+### Features
+
+* add buid release ([343c4e1](https://github.com/lmquang/release/commit/343c4e18236406f24b15ecf6e7016cb94a0b3a65))
+* update release GA ([cd0ede4](https://github.com/lmquang/release/commit/cd0ede495fb485e9fd5540fd287fd33d15f6efe1))
+
 # [0.7.0-rc.1](https://github.com/lmquang/release/compare/v0.6.0...v0.7.0-rc.1) (2023-08-14)
 
 
