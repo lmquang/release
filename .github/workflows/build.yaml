@@ -3,7 +3,7 @@ name: Build GKE
 on:
   push:
     tags:
-      - "v*"
+      - "^v*"
       - "^vd+.d+.d+-rc.d+$"
 
 jobs:
