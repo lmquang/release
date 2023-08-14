@@ -1,3 +1,10 @@
+# [0.7.0-rc.7](https://github.com/lmquang/release/compare/v0.7.0-rc.6...v0.7.0-rc.7) (2023-08-14)
+
+
+### Bug Fixes
+
+* abc ([9d4e5cc](https://github.com/lmquang/release/commit/9d4e5cc9eae71433e2904fae2a70d38fe0e0510a))
+
 # [0.7.0-rc.6](https://github.com/lmquang/release/compare/v0.7.0-rc.5...v0.7.0-rc.6) (2023-08-14)
 
 
