@@ -1,3 +1,10 @@
+# [0.6.0-rc.4](https://github.com/lmquang/release/compare/v0.6.0-rc.3...v0.6.0-rc.4) (2023-08-14)
+
+
+### Bug Fixes
+
+* fix cd prod ([07a00bf](https://github.com/lmquang/release/commit/07a00bf34222cb4c4fd3e5d3d0682f2cb12893d8))
+
 # [0.6.0-rc.3](https://github.com/lmquang/release/compare/v0.6.0-rc.2...v0.6.0-rc.3) (2023-08-14)
 
 
