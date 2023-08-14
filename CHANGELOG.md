@@ -1,3 +1,10 @@
+# [0.7.0-rc.3](https://github.com/lmquang/release/compare/v0.7.0-rc.2...v0.7.0-rc.3) (2023-08-14)
+
+
+### Bug Fixes
+
+* fix any ([1f42906](https://github.com/lmquang/release/commit/1f42906c09a36c6270effc46518d200494ff2690))
+
 # [0.7.0-rc.2](https://github.com/lmquang/release/compare/v0.7.0-rc.1...v0.7.0-rc.2) (2023-08-14)
 
 
