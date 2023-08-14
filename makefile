@@ -1,3 +1,7 @@
+RELEASE_BRANCH=main
+BETA_BRANCH=preview
+DEVELOP_BRANCH=develop
+
 .PHONY: push
 push:
 	git checkout main && git push origin main && git push origin --tags && git checkout develop && git push origin develop
@@ -7,4 +11,5 @@ push:
 
 .PHONY: release-rc
 release-rc:
-	some release cmd --rc
+	git checkout $(BETA_BRANCH) && git pull origin $(BETA_BRANCH) && git merge $(DEVELOP_BRANCH) && git push origin $(BETA_BRANCH)
+
