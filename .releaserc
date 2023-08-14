@@ -2,16 +2,11 @@
   "repositoryUrl": "https://github.com/lmquang/release",
   "branches": [
     "+([0-9])?(.{+([0-9]),x}).x",
-    "master",
     "main",
     "next",
     "next-major",
     {
-      "name": "beta",
-      "prerelease": true
-    },
-    {
-      "name": "alpha",
+      "name": "preview",
       "prerelease": true
     }
   ],
