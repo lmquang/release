@@ -1,3 +1,10 @@
+# [0.7.0-rc.1](https://github.com/lmquang/release/compare/v0.6.0...v0.7.0-rc.1) (2023-08-14)
+
+
+### Features
+
+* add new feat 070 ([79373b1](https://github.com/lmquang/release/commit/79373b19c49438eae13ee0849298eb3a36848049))
+
 # [0.6.0-rc.5](https://github.com/lmquang/release/compare/v0.6.0-rc.4...v0.6.0-rc.5) (2023-08-14)
 
 
