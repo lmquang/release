@@ -16,7 +16,7 @@ release:
 
 .PHONY: release-rc
 release-rc:
-	git checkout $(DEVELOP_BRANCH) && git pull $(DEVELOP_BRANCH) && \
+	git checkout $(DEVELOP_BRANCH) && git pull origin $(DEVELOP_BRANCH) && \
 		git checkout $(BETA_BRANCH) && git pull origin $(BETA_BRANCH) && \
 		git merge $(DEVELOP_BRANCH) --no-ff && \
 		git push origin $(BETA_BRANCH) && \
