@@ -1,3 +1,10 @@
+# [0.7.0-rc.6](https://github.com/lmquang/release/compare/v0.7.0-rc.5...v0.7.0-rc.6) (2023-08-14)
+
+
+### Bug Fixes
+
+* cannot create changelog when releasing ([b55219d](https://github.com/lmquang/release/commit/b55219d6672c5e2b4f1884eeea4198fc2f15bbad))
+
 # [0.7.0-rc.5](https://github.com/lmquang/release/compare/v0.7.0-rc.4...v0.7.0-rc.5) (2023-08-14)
 
 
