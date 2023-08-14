@@ -1,3 +1,10 @@
+# [0.6.0-rc.3](https://github.com/lmquang/release/compare/v0.6.0-rc.2...v0.6.0-rc.3) (2023-08-14)
+
+
+### Features
+
+* update makefile cmd ([a24b6a4](https://github.com/lmquang/release/commit/a24b6a419d88ca89f68f1f7a7996c46b7e93db58))
+
 # [0.6.0-rc.2](https://github.com/lmquang/release/compare/v0.6.0-rc.1...v0.6.0-rc.2) (2023-08-14)
 
 
