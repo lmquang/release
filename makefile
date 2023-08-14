@@ -10,7 +10,7 @@ push:
 release:
 	git checkout $(BETA_BRANCH) && git pull origin $(BETA_BRANCH) && \
 		git checkout $(RELEASE_BRANCH) && git pull origin $(RELEASE_BRANCH) && \
-		git merge $(BETA_BRANCH) --no-commit  --no-ff && \
+		git merge $(BETA_BRANCH)  --no-ff && \
 		git push origin $(RELEASE_BRANCH) && \
 		git checkout $(DEVELOP_BRANCH)
 
@@ -18,7 +18,7 @@ release:
 release-rc:
 	git checkout $(BETA_BRANCH) && \
 		git pull origin $(BETA_BRANCH) && \
-		git merge $(DEVELOP_BRANCH) --no-commit --no-ff && \
+		git merge $(DEVELOP_BRANCH) --no-ff && \
 		git push origin $(BETA_BRANCH) && \
 		git checkout $(DEVELOP_BRANCH)
 
