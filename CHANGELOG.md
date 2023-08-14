@@ -1,3 +1,10 @@
+# [0.8.0-rc.1](https://github.com/lmquang/release/compare/v0.7.0...v0.8.0-rc.1) (2023-08-14)
+
+
+### Features
+
+* update makefile ([ea8f8d1](https://github.com/lmquang/release/commit/ea8f8d1ccbd7f856ece8e0842192b82c139878c6))
+
 # [0.7.0](https://github.com/lmquang/release/compare/v0.6.0...v0.7.0) (2023-08-14)
 
 
