@@ -26,3 +26,8 @@ release-rc:
 		git push origin $(BETA_BRANCH) && \
 		git checkout $(DEVELOP_BRANCH) && git push origin $(DEVELOP_BRANCH)
 
+.PHONY: sync-release
+sync-release:
+	git checkout $(RELEASE_BRANCH) && git pull origin $(RELEASE_BRANCH) && \
+		git checkout $(BETA_BRANCH) && git pull origin $(BETA_BRANCH) && \
+		git merge $(RELEASE_BRANCH) --no-edit --no-ff

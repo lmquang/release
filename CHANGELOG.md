@@ -1,22 +1,80 @@
-# [0.6.0](https://github.com/lmquang/release/compare/v0.5.1...v0.6.0) (2023-08-14)
-
-
-### Bug Fixes
-
-* correct wf semantic ([f9825df](https://github.com/lmquang/release/commit/f9825dfff4fd9e25783a09034db3227fbdc15d0a))
-* fix cd prod ([07a00bf](https://github.com/lmquang/release/commit/07a00bf34222cb4c4fd3e5d3d0682f2cb12893d8))
-* fix rc2 ([79c5601](https://github.com/lmquang/release/commit/79c5601156c7323803a184af395dfee48b8eaeb4))
-* fix readme ([bc7a3a3](https://github.com/lmquang/release/commit/bc7a3a362bd938d15dbf1f92cbfa4e0828ba9385))
+# [0.7.0-rc.11](https://github.com/lmquang/release/compare/v0.7.0-rc.10...v0.7.0-rc.11) (2023-08-14)
 
 
 ### Features
 
-* add changelog plugin ([c0bc576](https://github.com/lmquang/release/commit/c0bc5762b2302ffb941ee7d739d8641daacaf3cd))
-* add cicd preview ([3bb5b8b](https://github.com/lmquang/release/commit/3bb5b8b118247702e159378a0fae249a7a7be58e))
-* add cmd release ([85989fd](https://github.com/lmquang/release/commit/85989fd70ace6dabbb280eaff7d820ffe565be66))
-* add release rc ([8452524](https://github.com/lmquang/release/commit/84525244a9aecf87bfb764f0346f6dab7c441729))
-* add semantic-release cfg ([e34593d](https://github.com/lmquang/release/commit/e34593da65094af9c32a9d7fca301b27007cc000))
-* update makefile cmd ([a24b6a4](https://github.com/lmquang/release/commit/a24b6a419d88ca89f68f1f7a7996c46b7e93db58))
+* add prerelease event ([00a35ca](https://github.com/lmquang/release/commit/00a35cabfbca60c572bf3672d79c20c50d9226dc))
+
+# [0.7.0-rc.10](https://github.com/lmquang/release/compare/v0.7.0-rc.9...v0.7.0-rc.10) (2023-08-14)
+
+
+### Features
+
+* add release rc cfg ([b74d40c](https://github.com/lmquang/release/commit/b74d40cd01437c6a455c4c3ab1c76a8d6a824d42))
+
+# [0.7.0-rc.9](https://github.com/lmquang/release/compare/v0.7.0-rc.8...v0.7.0-rc.9) (2023-08-14)
+
+
+### Bug Fixes
+
+* cfg ([5629d52](https://github.com/lmquang/release/commit/5629d5201eda5bb26aac9bf952879b6d25c59afe))
+
+# [0.7.0-rc.8](https://github.com/lmquang/release/compare/v0.7.0-rc.7...v0.7.0-rc.8) (2023-08-14)
+
+
+### Bug Fixes
+
+* abcd ([09202c3](https://github.com/lmquang/release/commit/09202c3f62530f30983a1ee50e5ca51c5f1d972e))
+
+# [0.7.0-rc.7](https://github.com/lmquang/release/compare/v0.7.0-rc.6...v0.7.0-rc.7) (2023-08-14)
+
+
+### Bug Fixes
+
+* abc ([9d4e5cc](https://github.com/lmquang/release/commit/9d4e5cc9eae71433e2904fae2a70d38fe0e0510a))
+
+# [0.7.0-rc.6](https://github.com/lmquang/release/compare/v0.7.0-rc.5...v0.7.0-rc.6) (2023-08-14)
+
+
+### Bug Fixes
+
+* cannot create changelog when releasing ([b55219d](https://github.com/lmquang/release/commit/b55219d6672c5e2b4f1884eeea4198fc2f15bbad))
+
+# [0.7.0-rc.5](https://github.com/lmquang/release/compare/v0.7.0-rc.4...v0.7.0-rc.5) (2023-08-14)
+
+
+### Bug Fixes
+
+* cannot create changelog when releasing ([ee2931e](https://github.com/lmquang/release/commit/ee2931ebc2f3e4be6f6b1f1c8931571b29c218c9))
+
+# [0.7.0-rc.3](https://github.com/lmquang/release/compare/v0.7.0-rc.2...v0.7.0-rc.3) (2023-08-14)
+
+
+### Bug Fixes
+
+* fix any ([1f42906](https://github.com/lmquang/release/commit/1f42906c09a36c6270effc46518d200494ff2690))
+
+# [0.7.0-rc.2](https://github.com/lmquang/release/compare/v0.7.0-rc.1...v0.7.0-rc.2) (2023-08-14)
+
+
+### Features
+
+* add buid release ([343c4e1](https://github.com/lmquang/release/commit/343c4e18236406f24b15ecf6e7016cb94a0b3a65))
+* update release GA ([cd0ede4](https://github.com/lmquang/release/commit/cd0ede495fb485e9fd5540fd287fd33d15f6efe1))
+
+# [0.7.0-rc.1](https://github.com/lmquang/release/compare/v0.6.0...v0.7.0-rc.1) (2023-08-14)
+
+
+### Features
+
+* add new feat 070 ([79373b1](https://github.com/lmquang/release/commit/79373b19c49438eae13ee0849298eb3a36848049))
+
+# [0.6.0-rc.5](https://github.com/lmquang/release/compare/v0.6.0-rc.4...v0.6.0-rc.5) (2023-08-14)
+
+
+### Features
+
+* add new feat 070 ([79373b1](https://github.com/lmquang/release/commit/79373b19c49438eae13ee0849298eb3a36848049))
 
 # [0.6.0-rc.4](https://github.com/lmquang/release/compare/v0.6.0-rc.3...v0.6.0-rc.4) (2023-08-14)
 
