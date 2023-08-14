@@ -1,3 +1,10 @@
+# [0.7.0-rc.10](https://github.com/lmquang/release/compare/v0.7.0-rc.9...v0.7.0-rc.10) (2023-08-14)
+
+
+### Features
+
+* add release rc cfg ([b74d40c](https://github.com/lmquang/release/commit/b74d40cd01437c6a455c4c3ab1c76a8d6a824d42))
+
 # [0.7.0-rc.9](https://github.com/lmquang/release/compare/v0.7.0-rc.8...v0.7.0-rc.9) (2023-08-14)
 
 
