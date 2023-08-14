@@ -23,6 +23,10 @@ jobs:
         with:
           cache: npm
           node-version: lts/*
+      - name: Install dependencies
+        run: npm clean-install
+      - name: Verify the integrity of provenance attestations and registry signatures for installed dependencies
+        run: npm audit signatures
       # pinned version updated automatically by Renovate.
       # details at https://semantic-release.gitbook.io/semantic-release/usage/installation#global-installation
       - run: npx semantic-release@21.0.2
