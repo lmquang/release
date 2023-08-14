@@ -1,3 +1,10 @@
+# [0.7.0-rc.11](https://github.com/lmquang/release/compare/v0.7.0-rc.10...v0.7.0-rc.11) (2023-08-14)
+
+
+### Features
+
+* add prerelease event ([00a35ca](https://github.com/lmquang/release/commit/00a35cabfbca60c572bf3672d79c20c50d9226dc))
+
 # [0.7.0-rc.10](https://github.com/lmquang/release/compare/v0.7.0-rc.9...v0.7.0-rc.10) (2023-08-14)
 
 
