@@ -1,3 +1,10 @@
+# [0.7.0-rc.9](https://github.com/lmquang/release/compare/v0.7.0-rc.8...v0.7.0-rc.9) (2023-08-14)
+
+
+### Bug Fixes
+
+* cfg ([5629d52](https://github.com/lmquang/release/commit/5629d5201eda5bb26aac9bf952879b6d25c59afe))
+
 # [0.7.0-rc.8](https://github.com/lmquang/release/compare/v0.7.0-rc.7...v0.7.0-rc.8) (2023-08-14)
 
 
