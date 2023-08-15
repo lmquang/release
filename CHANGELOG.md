@@ -1,3 +1,11 @@
+# [0.8.0-rc.2](https://github.com/lmquang/release/compare/v0.8.0-rc.1...v0.8.0-rc.2) (2023-08-15)
+
+
+### Features
+
+* rename file ([e31b53d](https://github.com/lmquang/release/commit/e31b53d8d4463a0befa50e26e606257ae4a845e4))
+* update build preview ([c4832e1](https://github.com/lmquang/release/commit/c4832e1338fe46cf06182f358361834a1f600072))
+
 # [0.8.0-rc.1](https://github.com/lmquang/release/compare/v0.7.0...v0.8.0-rc.1) (2023-08-14)
 
 
