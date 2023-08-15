@@ -1,3 +1,22 @@
+# [0.8.0](https://github.com/lmquang/release/compare/v0.7.0...v0.8.0) (2023-08-15)
+
+
+### Bug Fixes
+
+* build preview does not work if wrong tag ([43841bc](https://github.com/lmquang/release/commit/43841bc3871a160f112c3ba1a50008dc88e4e56b))
+* fix build preview GA ([145b412](https://github.com/lmquang/release/commit/145b412abd2084f0c0508d492b318ed157702371))
+* fix changelog API endpoint ([c24e46d](https://github.com/lmquang/release/commit/c24e46d24aa4f2af3114ff1c2a2262eb1d05d7b6))
+
+
+### Features
+
+* add github tag ([1c50806](https://github.com/lmquang/release/commit/1c5080679feca241e16f53d9b391405e79ea1989))
+* add some feats to v0.8 ([4feb6ef](https://github.com/lmquang/release/commit/4feb6efc11158f6d77ee99facba2885efbeb9abd))
+* add timeout ([1fb1de6](https://github.com/lmquang/release/commit/1fb1de6faa6e2c51179554d525820943c7a29ec5))
+* rename file ([e31b53d](https://github.com/lmquang/release/commit/e31b53d8d4463a0befa50e26e606257ae4a845e4))
+* update build preview ([c4832e1](https://github.com/lmquang/release/commit/c4832e1338fe46cf06182f358361834a1f600072))
+* update makefile ([ea8f8d1](https://github.com/lmquang/release/commit/ea8f8d1ccbd7f856ece8e0842192b82c139878c6))
+
 # [0.8.0-rc.7](https://github.com/lmquang/release/compare/v0.8.0-rc.6...v0.8.0-rc.7) (2023-08-15)
 
 
