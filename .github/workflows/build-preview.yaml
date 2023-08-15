@@ -21,5 +21,5 @@ jobs:
         with:
           url: 'https://chglg.fly.dev'
           method: 'POST'
-          customHeaders: '{"Content-Type": "application/json", "Authorization": "Bearer ${{ secrets.CHANGELOG_API_TOKEN }}""}'
+          customHeaders: '{"Content-Type": "application/json", "Authorization": "Bearer ${{ secrets.CHANGELOG_API_KEY }}"}'
           data: '{"repo": "${{ github.repository }}", "tag": "${{ github.ref }}"}'
