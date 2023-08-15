@@ -1,3 +1,10 @@
+# [0.8.0-rc.5](https://github.com/lmquang/release/compare/v0.8.0-rc.4...v0.8.0-rc.5) (2023-08-15)
+
+
+### Features
+
+* add github tag ([1c50806](https://github.com/lmquang/release/commit/1c5080679feca241e16f53d9b391405e79ea1989))
+
 # [0.8.0-rc.4](https://github.com/lmquang/release/compare/v0.8.0-rc.3...v0.8.0-rc.4) (2023-08-15)
 
 
