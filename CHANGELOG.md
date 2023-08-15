@@ -1,3 +1,10 @@
+# [0.8.0-rc.4](https://github.com/lmquang/release/compare/v0.8.0-rc.3...v0.8.0-rc.4) (2023-08-15)
+
+
+### Bug Fixes
+
+* fix changelog API endpoint ([c24e46d](https://github.com/lmquang/release/commit/c24e46d24aa4f2af3114ff1c2a2262eb1d05d7b6))
+
 # [0.8.0-rc.3](https://github.com/lmquang/release/compare/v0.8.0-rc.2...v0.8.0-rc.3) (2023-08-15)
 
 
