@@ -1,3 +1,10 @@
+# [0.8.0-rc.3](https://github.com/lmquang/release/compare/v0.8.0-rc.2...v0.8.0-rc.3) (2023-08-15)
+
+
+### Bug Fixes
+
+* fix build preview GA ([145b412](https://github.com/lmquang/release/commit/145b412abd2084f0c0508d492b318ed157702371))
+
 # [0.8.0-rc.2](https://github.com/lmquang/release/compare/v0.8.0-rc.1...v0.8.0-rc.2) (2023-08-15)
 
 
