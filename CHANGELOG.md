@@ -1,3 +1,15 @@
+# [0.8.0-rc.6](https://github.com/lmquang/release/compare/v0.8.0-rc.5...v0.8.0-rc.6) (2023-08-15)
+
+
+### Bug Fixes
+
+* build preview does not work if wrong tag ([43841bc](https://github.com/lmquang/release/commit/43841bc3871a160f112c3ba1a50008dc88e4e56b))
+
+
+### Features
+
+* add some feats to v0.8 ([4feb6ef](https://github.com/lmquang/release/commit/4feb6efc11158f6d77ee99facba2885efbeb9abd))
+
 # [0.8.0-rc.5](https://github.com/lmquang/release/compare/v0.8.0-rc.4...v0.8.0-rc.5) (2023-08-15)
 
 
