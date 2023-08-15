@@ -1,3 +1,10 @@
+# [0.8.0-rc.7](https://github.com/lmquang/release/compare/v0.8.0-rc.6...v0.8.0-rc.7) (2023-08-15)
+
+
+### Features
+
+* add timeout ([1fb1de6](https://github.com/lmquang/release/commit/1fb1de6faa6e2c51179554d525820943c7a29ec5))
+
 # [0.8.0-rc.6](https://github.com/lmquang/release/compare/v0.8.0-rc.5...v0.8.0-rc.6) (2023-08-15)
 
 
