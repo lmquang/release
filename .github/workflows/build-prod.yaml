@@ -1,10 +1,16 @@
-name: Post Pre-release
+name: Build Prod
 
 on:
   release:
-    types: [prereleased]
+    types: [released]
 
 jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
   github-releases-to-discord:
     runs-on: ubuntu-latest
     steps:
