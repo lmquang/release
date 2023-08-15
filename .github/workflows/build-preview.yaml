@@ -1,0 +1,25 @@
+name: Build Pre-release
+
+on:
+  release:
+    types: [prereleased]
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+  github-releases-to-discord:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Deploy Stage
+        uses: fjogeleit/http-request-action@v1
+        with:
+          url: 'https://chglg.fly.dev'
+          method: 'POST'
+          customHeaders: '{"Content-Type": "application/json", "Authorization": "Bearer ${{ secrets.CHANGELOG_API_TOKEN }}""}'
+          data: '{"repo": "${{ github.repository }}", "tag": "${{ github.ref }}"}'
