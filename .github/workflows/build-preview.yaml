@@ -19,7 +19,7 @@ jobs:
       - name: Deploy Stage
         uses: fjogeleit/http-request-action@v1
         with:
-          url: 'https://chglg.fly.dev'
+          url: 'https://chglg.fly.dev/v1/changelog'
           method: 'POST'
           customHeaders: '{"Content-Type": "application/json", "Authorization": "Bearer ${{ secrets.CHANGELOG_API_KEY }}"}'
-          data: '{"repo": "${{ github.repository }}", "tag": "${{ github.ref }}"}'
+          data: '{"repo": "https://github.com/${{ github.repository }}", "tag": "${{ github.ref }}"}'
