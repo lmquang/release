@@ -22,4 +22,4 @@ jobs:
           url: 'https://chglg.fly.dev/v1/changelog'
           method: 'POST'
           customHeaders: '{"Content-Type": "application/json", "Authorization": "Bearer ${{ secrets.CHANGELOG_API_KEY }}"}'
-          data: '{"repo": "https://github.com/${{ github.repository }}", "tag": "${GITHUB_REF_NAME}"}'
+          data: '{"repo": "https://github.com/${{ github.repository }}", "tag": "${{ github.ref }}"}'
