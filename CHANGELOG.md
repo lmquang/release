@@ -1,50 +1,19 @@
-# [0.9.0-rc.7](https://github.com/lmquang/release/compare/v0.9.0-rc.6...v0.9.0-rc.7) (2023-08-16)
+# [0.9.0](https://github.com/lmquang/release/compare/v0.8.0...v0.9.0) (2023-08-16)
 
 
 ### Bug Fixes
 
-* fix incorrect format body to compose changelog ([9984fe4](https://github.com/lmquang/release/commit/9984fe4f34fa4cdf9fe4ab57c2f66dee150df9c2))
-
-# [0.9.0-rc.6](https://github.com/lmquang/release/compare/v0.9.0-rc.5...v0.9.0-rc.6) (2023-08-16)
+* fix bug user cannot check tx ([3ea107d](https://github.com/lmquang/release/commit/3ea107d3882a98a359b46636466540c1dd80c07f))
+* fix bug user pay 2 times ([04276a3](https://github.com/lmquang/release/commit/04276a3e166ac70f867d1dc1df9571f06e0f8fd1))
+* fix bug user pay 8 times ([8c238a0](https://github.com/lmquang/release/commit/8c238a07cf28cf4a958ce55c80fdd290391bda4c))
+* fix flow release prod ([2722fa7](https://github.com/lmquang/release/commit/2722fa73dd4e6f93a551aae8e627901fb1db8930))
 
 
 ### Features
 
-* allow to escape body ([48a73ab](https://github.com/lmquang/release/commit/48a73aba279391c50a3942a935b5488e15530c4f))
-
-# [0.9.0-rc.5](https://github.com/lmquang/release/compare/v0.9.0-rc.4...v0.9.0-rc.5) (2023-08-16)
-
-
-### Bug Fixes
-
-* fix user cannot purchase item ([4a3a7d6](https://github.com/lmquang/release/commit/4a3a7d629473fd142ff32595f344de3ed73327a4))
-
-
-### Features
-
-* add apple pay ([3c84216](https://github.com/lmquang/release/commit/3c84216c1a66be7ab841fe801ec0686f26de8a06))
-* add auto detect user id ([206d713](https://github.com/lmquang/release/commit/206d713b77602ea46c6faf24dcdeeed28b13e7a6))
-
-# [0.9.0-rc.4](https://github.com/lmquang/release/compare/v0.9.0-rc.3...v0.9.0-rc.4) (2023-08-16)
-
-
-### Bug Fixes
-
-* fix flow release stag 1 ([9675b8e](https://github.com/lmquang/release/commit/9675b8e8911816a1b990f8f43c6c299480011d42))
-
-# [0.9.0-rc.3](https://github.com/lmquang/release/compare/v0.9.0-rc.2...v0.9.0-rc.3) (2023-08-16)
-
-
-### Bug Fixes
-
-* fix flow release stag ([e3253a1](https://github.com/lmquang/release/commit/e3253a1380dbb8f7a6f85b45e8f157f903e580b2))
-
-# [0.9.0-rc.2](https://github.com/lmquang/release/compare/v0.9.0-rc.1...v0.9.0-rc.2) (2023-08-16)
-
-
-### Features
-
-* update cd preview ([a7e901e](https://github.com/lmquang/release/commit/a7e901e2a5264b31843b10f0673e86cd3e64a4da))
+* add cmd to show profile ([b2e5686](https://github.com/lmquang/release/commit/b2e5686c895986f9579689bb29226ffaccff458d))
+* add new feat 801 ([64be77b](https://github.com/lmquang/release/commit/64be77bf2d2551edb16317db245dbeabee984bc6))
+* add new feat to pay ([be80542](https://github.com/lmquang/release/commit/be80542af4be3bd88ea6fc091e17106ef6c5c0c3))
 
 # [0.9.0-rc.1](https://github.com/lmquang/release/compare/v0.8.0...v0.9.0-rc.1) (2023-08-16)
 
