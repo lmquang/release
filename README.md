@@ -7,3 +7,4 @@ fix
 feat: tag 8.0
 feat: 8.0.1
 feat: 8.0.2
+feat: show profile
