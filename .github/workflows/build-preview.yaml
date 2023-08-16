@@ -23,10 +23,4 @@ jobs:
           method: 'POST'
           customHeaders: '{"Content-Type": "application/json", "Authorization": "Bearer ${{ secrets.CHANGELOG_API_KEY }}"}'
           timeout: 30000
-          data: |
-            '{
-                "repo": "https://github.com/${{ github.repository }}", 
-                "tag": "${{ github.ref }}", 
-                "app_name": "Telegram", 
-                "app_icon": ":telegram:"
-            }'
+          data: '{"repo": "https://github.com/${{ github.repository }}", "tag": "${{ github.ref }}", "app_name": "Telegram", "app_icon": ":telegram:"}'
