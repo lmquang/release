@@ -1,3 +1,18 @@
+# [0.8.0-rc.8](https://github.com/lmquang/release/compare/v0.8.0-rc.7...v0.8.0-rc.8) (2023-08-16)
+
+
+### Bug Fixes
+
+* fix bug user cannot check tx ([3ea107d](https://github.com/lmquang/release/commit/3ea107d3882a98a359b46636466540c1dd80c07f))
+* fix bug user pay 2 times ([04276a3](https://github.com/lmquang/release/commit/04276a3e166ac70f867d1dc1df9571f06e0f8fd1))
+
+
+### Features
+
+* add cmd to show profile ([b2e5686](https://github.com/lmquang/release/commit/b2e5686c895986f9579689bb29226ffaccff458d))
+* add new feat 801 ([64be77b](https://github.com/lmquang/release/commit/64be77bf2d2551edb16317db245dbeabee984bc6))
+* add new feat to pay ([be80542](https://github.com/lmquang/release/commit/be80542af4be3bd88ea6fc091e17106ef6c5c0c3))
+
 # [0.8.0-rc.7](https://github.com/lmquang/release/compare/v0.8.0-rc.6...v0.8.0-rc.7) (2023-08-15)
 
 
