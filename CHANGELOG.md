@@ -1,3 +1,10 @@
+# [0.9.0-rc.3](https://github.com/lmquang/release/compare/v0.9.0-rc.2...v0.9.0-rc.3) (2023-08-16)
+
+
+### Bug Fixes
+
+* fix flow release stag ([e3253a1](https://github.com/lmquang/release/commit/e3253a1380dbb8f7a6f85b45e8f157f903e580b2))
+
 # [0.9.0-rc.2](https://github.com/lmquang/release/compare/v0.9.0-rc.1...v0.9.0-rc.2) (2023-08-16)
 
 
