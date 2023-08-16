@@ -1,3 +1,10 @@
+# [0.9.0-rc.6](https://github.com/lmquang/release/compare/v0.9.0-rc.5...v0.9.0-rc.6) (2023-08-16)
+
+
+### Features
+
+* allow to escape body ([48a73ab](https://github.com/lmquang/release/commit/48a73aba279391c50a3942a935b5488e15530c4f))
+
 # [0.9.0-rc.5](https://github.com/lmquang/release/compare/v0.9.0-rc.4...v0.9.0-rc.5) (2023-08-16)
 
 
