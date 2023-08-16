@@ -1,3 +1,16 @@
+# [0.9.0-rc.5](https://github.com/lmquang/release/compare/v0.9.0-rc.4...v0.9.0-rc.5) (2023-08-16)
+
+
+### Bug Fixes
+
+* fix user cannot purchase item ([4a3a7d6](https://github.com/lmquang/release/commit/4a3a7d629473fd142ff32595f344de3ed73327a4))
+
+
+### Features
+
+* add apple pay ([3c84216](https://github.com/lmquang/release/commit/3c84216c1a66be7ab841fe801ec0686f26de8a06))
+* add auto detect user id ([206d713](https://github.com/lmquang/release/commit/206d713b77602ea46c6faf24dcdeeed28b13e7a6))
+
 # [0.9.0-rc.4](https://github.com/lmquang/release/compare/v0.9.0-rc.3...v0.9.0-rc.4) (2023-08-16)
 
 
