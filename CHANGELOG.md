@@ -1,3 +1,10 @@
+# [0.11.0-rc.2](https://github.com/lmquang/release/compare/v0.11.0-rc.1...v0.11.0-rc.2) (2023-08-16)
+
+
+### Bug Fixes
+
+* cannot release prod ([ba576f5](https://github.com/lmquang/release/commit/ba576f51df84f658d97a08e684cb6fad15608429))
+
 # [0.11.0-rc.1](https://github.com/lmquang/release/compare/v0.10.0...v0.11.0-rc.1) (2023-08-16)
 
 
