@@ -1,3 +1,20 @@
+# [0.9.0-rc.1](https://github.com/lmquang/release/compare/v0.8.0...v0.9.0-rc.1) (2023-08-16)
+
+
+### Bug Fixes
+
+* fix bug user cannot check tx ([3ea107d](https://github.com/lmquang/release/commit/3ea107d3882a98a359b46636466540c1dd80c07f))
+* fix bug user pay 2 times ([04276a3](https://github.com/lmquang/release/commit/04276a3e166ac70f867d1dc1df9571f06e0f8fd1))
+* fix bug user pay 8 times ([8c238a0](https://github.com/lmquang/release/commit/8c238a07cf28cf4a958ce55c80fdd290391bda4c))
+* fix flow release prod ([2722fa7](https://github.com/lmquang/release/commit/2722fa73dd4e6f93a551aae8e627901fb1db8930))
+
+
+### Features
+
+* add cmd to show profile ([b2e5686](https://github.com/lmquang/release/commit/b2e5686c895986f9579689bb29226ffaccff458d))
+* add new feat 801 ([64be77b](https://github.com/lmquang/release/commit/64be77bf2d2551edb16317db245dbeabee984bc6))
+* add new feat to pay ([be80542](https://github.com/lmquang/release/commit/be80542af4be3bd88ea6fc091e17106ef6c5c0c3))
+
 # [0.8.0-rc.10](https://github.com/lmquang/release/compare/v0.8.0-rc.9...v0.8.0-rc.10) (2023-08-16)
 
 
