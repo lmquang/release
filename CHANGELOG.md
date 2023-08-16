@@ -1,3 +1,10 @@
+# [0.11.0-rc.3](https://github.com/lmquang/release/compare/v0.11.0-rc.2...v0.11.0-rc.3) (2023-08-16)
+
+
+### Features
+
+* add new cd to prod ([fce1981](https://github.com/lmquang/release/commit/fce198144b96ff6b001d0195c5e5d20f8b8539be))
+
 # [0.11.0-rc.2](https://github.com/lmquang/release/compare/v0.11.0-rc.1...v0.11.0-rc.2) (2023-08-16)
 
 
