@@ -1,3 +1,10 @@
+# [0.8.0-rc.9](https://github.com/lmquang/release/compare/v0.8.0-rc.8...v0.8.0-rc.9) (2023-08-16)
+
+
+### Bug Fixes
+
+* fix bug user pay 8 times ([8c238a0](https://github.com/lmquang/release/commit/8c238a07cf28cf4a958ce55c80fdd290391bda4c))
+
 # [0.8.0-rc.8](https://github.com/lmquang/release/compare/v0.8.0-rc.7...v0.8.0-rc.8) (2023-08-16)
 
 
