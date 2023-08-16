@@ -1,3 +1,15 @@
+# [0.12.0](https://github.com/lmquang/release/compare/v0.11.0...v0.12.0) (2023-08-16)
+
+
+### Bug Fixes
+
+* cannot release prod ([ba576f5](https://github.com/lmquang/release/commit/ba576f51df84f658d97a08e684cb6fad15608429))
+
+
+### Features
+
+* add new cd to prod ([fce1981](https://github.com/lmquang/release/commit/fce198144b96ff6b001d0195c5e5d20f8b8539be))
+
 # [0.11.0-rc.3](https://github.com/lmquang/release/compare/v0.11.0-rc.2...v0.11.0-rc.3) (2023-08-16)
 
 
