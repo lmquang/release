@@ -1,23 +1,4 @@
-# [0.10.0-rc.3](https://github.com/lmquang/release/compare/v0.10.0-rc.2...v0.10.0-rc.3) (2023-08-16)
-
-
-### Features
-
-* update make release ([e4f5cf9](https://github.com/lmquang/release/commit/e4f5cf90e04967a93769438bafd017ead0da9ada))
-
-# [0.10.0-rc.2](https://github.com/lmquang/release/compare/v0.10.0-rc.1...v0.10.0-rc.2) (2023-08-16)
-
-
-### Bug Fixes
-
-* fix release prod cmd cannot update staging branch ([9245463](https://github.com/lmquang/release/commit/9245463e97d4c77c36017e13ce6861430154dba8))
-
-
-### Features
-
-* allow to build with github_ref_name ([e768164](https://github.com/lmquang/release/commit/e768164d72e462e3daa0f8736d630082908908dd))
-
-# [0.10.0-rc.1](https://github.com/lmquang/release/compare/v0.9.0...v0.10.0-rc.1) (2023-08-16)
+# [0.10.0](https://github.com/lmquang/release/compare/v0.9.0...v0.10.0) (2023-08-16)
 
 
 ### Bug Fixes
