@@ -1,3 +1,10 @@
+# [0.9.0-rc.2](https://github.com/lmquang/release/compare/v0.9.0-rc.1...v0.9.0-rc.2) (2023-08-16)
+
+
+### Features
+
+* update cd preview ([a7e901e](https://github.com/lmquang/release/commit/a7e901e2a5264b31843b10f0673e86cd3e64a4da))
+
 # [0.9.0-rc.1](https://github.com/lmquang/release/compare/v0.8.0...v0.9.0-rc.1) (2023-08-16)
 
 
