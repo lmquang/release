@@ -1,3 +1,10 @@
+# [0.9.0-rc.7](https://github.com/lmquang/release/compare/v0.9.0-rc.6...v0.9.0-rc.7) (2023-08-16)
+
+
+### Bug Fixes
+
+* fix incorrect format body to compose changelog ([9984fe4](https://github.com/lmquang/release/commit/9984fe4f34fa4cdf9fe4ab57c2f66dee150df9c2))
+
 # [0.9.0-rc.6](https://github.com/lmquang/release/compare/v0.9.0-rc.5...v0.9.0-rc.6) (2023-08-16)
 
 
