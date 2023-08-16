@@ -1,3 +1,10 @@
+# [0.10.0-rc.3](https://github.com/lmquang/release/compare/v0.10.0-rc.2...v0.10.0-rc.3) (2023-08-16)
+
+
+### Features
+
+* update make release ([e4f5cf9](https://github.com/lmquang/release/commit/e4f5cf90e04967a93769438bafd017ead0da9ada))
+
 # [0.10.0-rc.2](https://github.com/lmquang/release/compare/v0.10.0-rc.1...v0.10.0-rc.2) (2023-08-16)
 
 
