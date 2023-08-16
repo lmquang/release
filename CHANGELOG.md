@@ -1,3 +1,10 @@
+# [0.8.0-rc.10](https://github.com/lmquang/release/compare/v0.8.0-rc.9...v0.8.0-rc.10) (2023-08-16)
+
+
+### Bug Fixes
+
+* fix flow release prod ([2722fa7](https://github.com/lmquang/release/commit/2722fa73dd4e6f93a551aae8e627901fb1db8930))
+
 # [0.8.0-rc.9](https://github.com/lmquang/release/compare/v0.8.0-rc.8...v0.8.0-rc.9) (2023-08-16)
 
 
