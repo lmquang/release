@@ -1,3 +1,21 @@
+# [0.10.0](https://github.com/lmquang/release/compare/v0.9.0...v0.10.0) (2023-08-16)
+
+
+### Bug Fixes
+
+* fix flow release stag ([e3253a1](https://github.com/lmquang/release/commit/e3253a1380dbb8f7a6f85b45e8f157f903e580b2))
+* fix flow release stag 1 ([9675b8e](https://github.com/lmquang/release/commit/9675b8e8911816a1b990f8f43c6c299480011d42))
+* fix incorrect format body to compose changelog ([9984fe4](https://github.com/lmquang/release/commit/9984fe4f34fa4cdf9fe4ab57c2f66dee150df9c2))
+* fix user cannot purchase item ([4a3a7d6](https://github.com/lmquang/release/commit/4a3a7d629473fd142ff32595f344de3ed73327a4))
+
+
+### Features
+
+* add apple pay ([3c84216](https://github.com/lmquang/release/commit/3c84216c1a66be7ab841fe801ec0686f26de8a06))
+* add auto detect user id ([206d713](https://github.com/lmquang/release/commit/206d713b77602ea46c6faf24dcdeeed28b13e7a6))
+* allow to escape body ([48a73ab](https://github.com/lmquang/release/commit/48a73aba279391c50a3942a935b5488e15530c4f))
+* update cd preview ([a7e901e](https://github.com/lmquang/release/commit/a7e901e2a5264b31843b10f0673e86cd3e64a4da))
+
 # [0.9.0](https://github.com/lmquang/release/compare/v0.8.0...v0.9.0) (2023-08-16)
 
 
