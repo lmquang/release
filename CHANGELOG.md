@@ -1,21 +1,48 @@
-# [0.8.0](https://github.com/lmquang/release/compare/v0.7.0...v0.8.0) (2023-08-15)
+# [0.9.0-rc.1](https://github.com/lmquang/release/compare/v0.8.0...v0.9.0-rc.1) (2023-08-16)
 
 
 ### Bug Fixes
 
-* build preview does not work if wrong tag ([43841bc](https://github.com/lmquang/release/commit/43841bc3871a160f112c3ba1a50008dc88e4e56b))
-* fix build preview GA ([145b412](https://github.com/lmquang/release/commit/145b412abd2084f0c0508d492b318ed157702371))
-* fix changelog API endpoint ([c24e46d](https://github.com/lmquang/release/commit/c24e46d24aa4f2af3114ff1c2a2262eb1d05d7b6))
+* fix bug user cannot check tx ([3ea107d](https://github.com/lmquang/release/commit/3ea107d3882a98a359b46636466540c1dd80c07f))
+* fix bug user pay 2 times ([04276a3](https://github.com/lmquang/release/commit/04276a3e166ac70f867d1dc1df9571f06e0f8fd1))
+* fix bug user pay 8 times ([8c238a0](https://github.com/lmquang/release/commit/8c238a07cf28cf4a958ce55c80fdd290391bda4c))
+* fix flow release prod ([2722fa7](https://github.com/lmquang/release/commit/2722fa73dd4e6f93a551aae8e627901fb1db8930))
 
 
 ### Features
 
-* add github tag ([1c50806](https://github.com/lmquang/release/commit/1c5080679feca241e16f53d9b391405e79ea1989))
-* add some feats to v0.8 ([4feb6ef](https://github.com/lmquang/release/commit/4feb6efc11158f6d77ee99facba2885efbeb9abd))
-* add timeout ([1fb1de6](https://github.com/lmquang/release/commit/1fb1de6faa6e2c51179554d525820943c7a29ec5))
-* rename file ([e31b53d](https://github.com/lmquang/release/commit/e31b53d8d4463a0befa50e26e606257ae4a845e4))
-* update build preview ([c4832e1](https://github.com/lmquang/release/commit/c4832e1338fe46cf06182f358361834a1f600072))
-* update makefile ([ea8f8d1](https://github.com/lmquang/release/commit/ea8f8d1ccbd7f856ece8e0842192b82c139878c6))
+* add cmd to show profile ([b2e5686](https://github.com/lmquang/release/commit/b2e5686c895986f9579689bb29226ffaccff458d))
+* add new feat 801 ([64be77b](https://github.com/lmquang/release/commit/64be77bf2d2551edb16317db245dbeabee984bc6))
+* add new feat to pay ([be80542](https://github.com/lmquang/release/commit/be80542af4be3bd88ea6fc091e17106ef6c5c0c3))
+
+# [0.8.0-rc.10](https://github.com/lmquang/release/compare/v0.8.0-rc.9...v0.8.0-rc.10) (2023-08-16)
+
+
+### Bug Fixes
+
+* fix flow release prod ([2722fa7](https://github.com/lmquang/release/commit/2722fa73dd4e6f93a551aae8e627901fb1db8930))
+
+# [0.8.0-rc.9](https://github.com/lmquang/release/compare/v0.8.0-rc.8...v0.8.0-rc.9) (2023-08-16)
+
+
+### Bug Fixes
+
+* fix bug user pay 8 times ([8c238a0](https://github.com/lmquang/release/commit/8c238a07cf28cf4a958ce55c80fdd290391bda4c))
+
+# [0.8.0-rc.8](https://github.com/lmquang/release/compare/v0.8.0-rc.7...v0.8.0-rc.8) (2023-08-16)
+
+
+### Bug Fixes
+
+* fix bug user cannot check tx ([3ea107d](https://github.com/lmquang/release/commit/3ea107d3882a98a359b46636466540c1dd80c07f))
+* fix bug user pay 2 times ([04276a3](https://github.com/lmquang/release/commit/04276a3e166ac70f867d1dc1df9571f06e0f8fd1))
+
+
+### Features
+
+* add cmd to show profile ([b2e5686](https://github.com/lmquang/release/commit/b2e5686c895986f9579689bb29226ffaccff458d))
+* add new feat 801 ([64be77b](https://github.com/lmquang/release/commit/64be77bf2d2551edb16317db245dbeabee984bc6))
+* add new feat to pay ([be80542](https://github.com/lmquang/release/commit/be80542af4be3bd88ea6fc091e17106ef6c5c0c3))
 
 # [0.8.0-rc.7](https://github.com/lmquang/release/compare/v0.8.0-rc.6...v0.8.0-rc.7) (2023-08-15)
 
