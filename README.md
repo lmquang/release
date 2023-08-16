@@ -10,3 +10,4 @@ feat: 8.0.2
 feat: show profile
 fix: fix 00
 fix: fix 01
+feat: add 9.0
