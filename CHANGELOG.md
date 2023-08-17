@@ -1,3 +1,10 @@
+# [0.14.0-rc.1](https://github.com/lmquang/release/compare/v0.13.0...v0.14.0-rc.1) (2023-08-17)
+
+
+### Features
+
+* update release prod cfg ([68a1777](https://github.com/lmquang/release/commit/68a1777eb26b697c82a31ecd0b6eccd6b689f60a))
+
 # [0.13.0](https://github.com/lmquang/release/compare/v0.12.0...v0.13.0) (2023-08-17)
 
 
