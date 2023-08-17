@@ -1,3 +1,10 @@
+# [0.13.0-rc.2](https://github.com/lmquang/release/compare/v0.13.0-rc.1...v0.13.0-rc.2) (2023-08-17)
+
+
+### Bug Fixes
+
+* remove footer text ([7db94d0](https://github.com/lmquang/release/commit/7db94d0c25c326974150856162f8647d7b5019c2))
+
 # [0.13.0-rc.1](https://github.com/lmquang/release/compare/v0.12.0...v0.13.0-rc.1) (2023-08-17)
 
 
