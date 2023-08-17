@@ -1,3 +1,15 @@
+# [0.14.0-rc.2](https://github.com/lmquang/release/compare/v0.14.0-rc.1...v0.14.0-rc.2) (2023-08-17)
+
+
+### Bug Fixes
+
+* fix sth ([47d8590](https://github.com/lmquang/release/commit/47d8590dd2f157f1b79817e0c154414cf4d6b22e))
+
+
+### Features
+
+* add payment page ([f48768e](https://github.com/lmquang/release/commit/f48768e0c9cc358f02f249610c8ba851c68fb266))
+
 # [0.14.0-rc.1](https://github.com/lmquang/release/compare/v0.13.0...v0.14.0-rc.1) (2023-08-17)
 
 
