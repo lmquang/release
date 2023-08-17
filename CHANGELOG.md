@@ -1,3 +1,16 @@
+# [0.13.0-rc.1](https://github.com/lmquang/release/compare/v0.12.0...v0.13.0-rc.1) (2023-08-17)
+
+
+### Bug Fixes
+
+* fix release staging ([62d68c2](https://github.com/lmquang/release/commit/62d68c26e8670e7649ce653a4027fb219f80be7f))
+
+
+### Features
+
+* add new feat to deploy gh page ([3b71199](https://github.com/lmquang/release/commit/3b71199a5c84cf5d6f9b2a73ef12243a21e0358f))
+* add page payment to web ([3f8af0f](https://github.com/lmquang/release/commit/3f8af0fa6fdc08614287b6a9251ca424aaa944cb))
+
 # [0.12.0-rc.1](https://github.com/lmquang/release/compare/v0.11.0...v0.12.0-rc.1) (2023-08-17)
 
 
