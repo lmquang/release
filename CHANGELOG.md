@@ -1,3 +1,10 @@
+# [0.13.0-rc.5](https://github.com/lmquang/release/compare/v0.13.0-rc.4...v0.13.0-rc.5) (2023-08-17)
+
+
+### Bug Fixes
+
+* add changelog file ([d29f2e4](https://github.com/lmquang/release/commit/d29f2e4af7348fbcfd76c6cc2e81053dfc2fb2b2))
+
 # [0.12.0](https://github.com/lmquang/release/compare/v0.11.0...v0.12.0) (2023-08-16)
 
 
