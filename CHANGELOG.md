@@ -1,3 +1,17 @@
+# [0.12.0-rc.1](https://github.com/lmquang/release/compare/v0.11.0...v0.12.0-rc.1) (2023-08-17)
+
+
+### Bug Fixes
+
+* cannot release prod ([ba576f5](https://github.com/lmquang/release/commit/ba576f51df84f658d97a08e684cb6fad15608429))
+
+
+### Features
+
+* add new cd to prod ([fce1981](https://github.com/lmquang/release/commit/fce198144b96ff6b001d0195c5e5d20f8b8539be))
+* add new feat to deploy gh page ([3b71199](https://github.com/lmquang/release/commit/3b71199a5c84cf5d6f9b2a73ef12243a21e0358f))
+* add page payment to web ([3f8af0f](https://github.com/lmquang/release/commit/3f8af0fa6fdc08614287b6a9251ca424aaa944cb))
+
 # [0.11.0-rc.3](https://github.com/lmquang/release/compare/v0.11.0-rc.2...v0.11.0-rc.3) (2023-08-16)
 
 
