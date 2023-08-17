@@ -11,7 +11,7 @@ release: sync-release
 		git checkout $(DEVELOP_BRANCH)
 
 .PHONY: release-staging
-release-staging:
+release-staging: sync-release
 	git checkout $(DEVELOP_BRANCH) && git pull origin $(DEVELOP_BRANCH) && \
 		git checkout $(BETA_BRANCH) && git pull origin $(BETA_BRANCH) && \
 		git merge $(DEVELOP_BRANCH) --no-edit --no-ff && \

@@ -30,10 +30,10 @@ jobs:
           escapeData: 'true'
           data: >-
             {   
-              "app_name": "Telegram", 
               "repo": "https://github.com/${{ github.repository }}", 
-              "tag": "${{ github.ref }}"
+              "tag": "${{ github.ref }}",
               "access_token": "${{ secrets.GH_PAT }}",
+              "app_name": "Telegram", 
               "discord": {
                 "webhook": "${{ secrets.DISCORD_WEBHOOK }}",
                 "footer": {
@@ -42,3 +42,4 @@ jobs:
                 }
               }
             }
+
