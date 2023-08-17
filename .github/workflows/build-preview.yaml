@@ -37,7 +37,6 @@ jobs:
               "discord": {
                 "webhook": "${{ secrets.DISCORD_WEBHOOK }}",
                 "footer": {
-                  "text": "Telegram",
                   "icon_url": "https://cdn.discordapp.com/emojis/1097390168723435550.webp?size=96&quality=lossless"
                 }
               }
