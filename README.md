@@ -13,3 +13,4 @@ fix: fix 01
 feat: add 9.0
 feat: add new cd to prod
 feat: add web
+feat: update releaserc to not generate changelog file
