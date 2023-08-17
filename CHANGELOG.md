@@ -1,3 +1,20 @@
+# [0.13.0](https://github.com/lmquang/release/compare/v0.12.0...v0.13.0) (2023-08-17)
+
+
+### Bug Fixes
+
+* add changelog file ([d29f2e4](https://github.com/lmquang/release/commit/d29f2e4af7348fbcfd76c6cc2e81053dfc2fb2b2))
+* fix release staging ([62d68c2](https://github.com/lmquang/release/commit/62d68c26e8670e7649ce653a4027fb219f80be7f))
+* remove footer text ([7db94d0](https://github.com/lmquang/release/commit/7db94d0c25c326974150856162f8647d7b5019c2))
+
+
+### Features
+
+* add new feat to deploy gh page ([3b71199](https://github.com/lmquang/release/commit/3b71199a5c84cf5d6f9b2a73ef12243a21e0358f))
+* add page payment to web ([3f8af0f](https://github.com/lmquang/release/commit/3f8af0fa6fdc08614287b6a9251ca424aaa944cb))
+* remove releaserc generate changelog file ([2c97c91](https://github.com/lmquang/release/commit/2c97c911bb2378813a1f22b869756d1f85ee06c7))
+* update releaserc to not generate changelog file ([ab4ccff](https://github.com/lmquang/release/commit/ab4ccff7618ba360862a353a1750e0526fbf901f))
+
 # [0.13.0-rc.5](https://github.com/lmquang/release/compare/v0.13.0-rc.4...v0.13.0-rc.5) (2023-08-17)
 
 
