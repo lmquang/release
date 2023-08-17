@@ -25,13 +25,20 @@ jobs:
         with:
           url: 'https://chglg.fly.dev/v1/changelog'
           method: 'POST'
-          customHeaders: '{"Content-Type": "application/json", "Authorization": "Bearer ${{ secrets.CHANGELOG_API_KEY }}"}'
+          customHeaders: '{"Content-Type": "application/json"}'
           timeout: 30000
           escapeData: 'true'
           data: >-
             {   
               "app_name": "Telegram", 
-              "icon_url": "https://cdn.discordapp.com/emojis/1097390168723435550.webp?size=96&quality=lossless", 
               "repo": "https://github.com/${{ github.repository }}", 
               "tag": "${{ github.ref }}"
+              "access_token": "${{ secrets.GH_PAT }}",
+              "discord": {
+                "webhook": "${{ secrets.DISCORD_WEBHOOK }}",
+                "footer": {
+                  "text": "Telegram",
+                  "icon_url": "https://cdn.discordapp.com/emojis/1097390168723435550.webp?size=96&quality=lossless"
+                }
+              }
             }
