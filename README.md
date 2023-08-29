@@ -16,4 +16,4 @@ feat: add web
 feat: update releaserc to not generate changelog file
 fix:
 bump
-feat(api): add new
+feat(api): add new1
