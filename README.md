@@ -18,3 +18,4 @@ fix:
 bump
 feat(api): add new12s22
 ci: test trigger preview
+fix: fix 00
