@@ -1,3 +1,11 @@
+# [0.15.0-rc.2](https://github.com/lmquang/release/compare/v0.15.0-rc.1...v0.15.0-rc.2) (2023-12-11)
+
+
+### Features
+
+* add bump version GA ([8472be0](https://github.com/lmquang/release/commit/8472be0a684fa1d26fb79f17887e702ad280669e))
+* add GA trigger wf ([524915b](https://github.com/lmquang/release/commit/524915b9b517376c6c0eed87a8e6861660758d92))
+
 # [0.15.0-rc.1](https://github.com/lmquang/release/compare/v0.14.0...v0.15.0-rc.1) (2023-08-29)
 
 
