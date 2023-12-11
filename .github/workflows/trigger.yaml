@@ -14,23 +14,14 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
-      # Overwrite GITHUB_SHA
-      - name: Set SHA
-        if: 
-        run: |
-          echo "SHA=${GITHUB_SHA}-$(date +%Y%m%d%H%M%S)" >> "$GITHUB_ENV"
-          echo ${SHA}
-      - name: Echo new SHA
-        run: |
-          echo $SHA
-      # - uses: convictional/trigger-workflow-and-wait@v1.6.1
-      #   with:
-      #     owner: lmquang
-      #     repo: release
-      #     github_token: ${{ secrets.GH_PAT }}
-      #     github_user: lmquang
-      #     workflow_file_name: build-preview.yaml
-      #     ref: preview
-      #     wait_interval: 10
-      #     trigger_workflow: true
-      #     wait_workflow: false
+      - uses: convictional/trigger-workflow-and-wait@v1.6.1
+        with:
+          owner: lmquang
+          repo: release
+          github_token: ${{ secrets.GH_PAT }}
+          github_user: lmquang
+          workflow_file_name: build-preview.yaml
+          ref: preview
+          wait_interval: 10
+          trigger_workflow: true
+          wait_workflow: false
