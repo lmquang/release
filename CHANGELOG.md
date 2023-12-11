@@ -1,3 +1,15 @@
+# [0.16.0-rc.2](https://github.com/lmquang/release/compare/v0.16.0-rc.1...v0.16.0-rc.2) (2023-12-11)
+
+
+### Bug Fixes
+
+* fix bug cannot overwrite sha ([be9efff](https://github.com/lmquang/release/commit/be9efffabfa4670f91427d631b398618aac49f41))
+
+
+### Features
+
+* add new behavior sha ([fd22a08](https://github.com/lmquang/release/commit/fd22a08baeac8b2e53ec8e91254208467a03e359))
+
 # [0.16.0-rc.1](https://github.com/lmquang/release/compare/v0.15.1-rc.2...v0.16.0-rc.1) (2023-12-11)
 
 
