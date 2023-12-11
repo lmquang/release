@@ -1,6 +1,7 @@
 name: Build Pre-release
 
 on:
+  workflow_dispatch:
   release:
     types: [prereleased]
 
