@@ -20,7 +20,7 @@ jobs:
       # Build & Push the Docker image
       - name: Build & Push
         run: |
-          echo tag ${GITHUB_REF_NAME}
+          echo tag ${GITHUB_SHA}
           echo event_type ${{github.event_name}}
       - name: Notify changelog
         uses: fjogeleit/http-request-action@v1
