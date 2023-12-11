@@ -17,6 +17,11 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+      # Overwrite GITHUB_SHA
+      - name: Set SHA
+        if: github.event_name == 'workflow_dispatch'
+        run: |
+          echo ::set-env name=GITHUB_SHA::${GIT_SHA}-$(date +%Y%m%d%H%M%S)
       # Build & Push the Docker image
       - name: Build & Push
         run: |
