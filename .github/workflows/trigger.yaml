@@ -11,6 +11,14 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
+      # Overwrite GITHUB_SHA
+      - name: Set SHA
+        run: |
+          echo "GITHUB_SHA=${GITHUB_SHA}-$(date +%Y%m%d%H%M%S)" >> "$GITHUB_ENV"
+          echo ${GITHUB_SHA}
+      - name: Echo new SHA
+        run: |
+          echo $GITHUB_SHA
       - uses: convictional/trigger-workflow-and-wait@v1.6.1
         with:
           owner: lmquang

@@ -21,7 +21,7 @@ jobs:
       - name: Set SHA
         if: github.event_name == 'workflow_dispatch'
         run: |
-          echo "GITHUB_SHA=${GIT_SHA}-$(date +%Y%m%d%H%M%S)" >> "$GITHUB_ENV"
+          echo "GITHUB_SHA=${GITHUB_SHA}-$(date +%Y%m%d%H%M%S)" >> "$GITHUB_ENV"
       # Build & Push the Docker image
       - name: Build & Push
         run: |
