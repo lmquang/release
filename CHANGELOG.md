@@ -1,3 +1,10 @@
+## [0.15.1-rc.2](https://github.com/lmquang/release/compare/v0.15.1-rc.1...v0.15.1-rc.2) (2023-12-11)
+
+
+### Bug Fixes
+
+* add sth ([7e0a311](https://github.com/lmquang/release/commit/7e0a311fc5c955e065e95811523f323d79d4193f))
+
 ## [0.15.1-rc.1](https://github.com/lmquang/release/compare/v0.15.0...v0.15.1-rc.1) (2023-12-11)
 
 
