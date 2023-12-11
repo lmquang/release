@@ -1,3 +1,10 @@
+## [0.15.1-rc.1](https://github.com/lmquang/release/compare/v0.15.0...v0.15.1-rc.1) (2023-12-11)
+
+
+### Bug Fixes
+
+* add filter for triggering job ([f7088f0](https://github.com/lmquang/release/commit/f7088f02b545112cf841f8f96eb80a0b3a034f6f))
+
 # [0.15.0](https://github.com/lmquang/release/compare/v0.14.0...v0.15.0) (2023-12-11)
 
 
