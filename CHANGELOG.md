@@ -1,3 +1,14 @@
+# [0.16.0-rc.3](https://github.com/lmquang/release/compare/v0.16.0-rc.2...v0.16.0-rc.3) (2023-12-11)
+
+
+### Bug Fixes
+
+* enable trigger ([79e20f1](https://github.com/lmquang/release/commit/79e20f1efa24aff1a5cf0e8a3ff5cd97b7ee6c90))
+* fix cannot set sha ([a2b6bfd](https://github.com/lmquang/release/commit/a2b6bfdb7c0c94c6de246d3a6d95e8779968ec1a))
+* fix sth new ([e9942c2](https://github.com/lmquang/release/commit/e9942c23c50ba1a13cf797ef5e16dd654bff6d39))
+* fix sth new a ([0c520bc](https://github.com/lmquang/release/commit/0c520bcaeac03bb0159526456bf3d2a4f6480b50))
+* fix sth new a ([99207ff](https://github.com/lmquang/release/commit/99207ffdebb0283be689ea1ce997355f37d66aae))
+
 # [0.16.0-rc.2](https://github.com/lmquang/release/compare/v0.16.0-rc.1...v0.16.0-rc.2) (2023-12-11)
 
 
