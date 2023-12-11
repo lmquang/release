@@ -23,6 +23,7 @@ jobs:
           echo tag ${GITHUB_REF_NAME}
       - name: Notify changelog
         uses: fjogeleit/http-request-action@v1
+        if: github.event_name == 'release'
         with:
           url: 'https://chglg.fly.dev/v1/changelog'
           method: 'POST'
