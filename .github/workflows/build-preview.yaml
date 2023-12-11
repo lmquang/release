@@ -21,6 +21,7 @@ jobs:
       - name: Build & Push
         run: |
           echo tag ${GITHUB_REF_NAME}
+          echo event_type ${{github.event_name}}
       - name: Notify changelog
         uses: fjogeleit/http-request-action@v1
         if: github.event_name == 'release'
