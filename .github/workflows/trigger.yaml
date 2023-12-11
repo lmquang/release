@@ -4,6 +4,9 @@ on:
     branches:
       - develop
 
+env:
+  SHA: ${{ github.sha }}
+      
 jobs:
   build:
     runs-on: ubuntu-latest
