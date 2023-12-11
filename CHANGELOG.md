@@ -1,3 +1,19 @@
+# [0.15.0-rc.1](https://github.com/lmquang/release/compare/v0.14.0...v0.15.0-rc.1) (2023-08-29)
+
+
+### Bug Fixes
+
+* **job:** correct job behavior ([2a91f87](https://github.com/lmquang/release/commit/2a91f879c515918726d7c6af75403a1b81aa19b2))
+* **profile:** user cannot see their balance ([a0e604f](https://github.com/lmquang/release/commit/a0e604f604752273e876dc57532fd5fc66159fbe))
+
+
+### Features
+
+* **api:** add new API trigger job ([76e8179](https://github.com/lmquang/release/commit/76e8179f25693685399ec77d20c5d8a471fc974c))
+* **pay:** allow to run payme cmd ([589bf3a](https://github.com/lmquang/release/commit/589bf3a38ee7a334f4343f97bb8f92524b43bf7d))
+* **profile:** user now can change their description ([6ad3872](https://github.com/lmquang/release/commit/6ad38726279c4848ddee41f6e1cdeb73d6640b25))
+* **schedule:** add new API set recurrence job ([2ebc498](https://github.com/lmquang/release/commit/2ebc498ab2358b862d6650665fb134badb8dea7f))
+
 # [0.14.0](https://github.com/lmquang/release/compare/v0.13.0...v0.14.0) (2023-08-17)
 
 
