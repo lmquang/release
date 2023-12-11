@@ -17,3 +17,4 @@ feat: update releaserc to not generate changelog file
 fix:
 bump
 feat(api): add new12s22
+ci: test trigger preview
