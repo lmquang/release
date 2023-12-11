@@ -1,0 +1,35 @@
+name: Trigger
+on:
+  push:
+    branches:
+      - develop
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v3
+      - uses: convictional/trigger-workflow-and-wait@v1.6.1
+        with:
+          owner: lmquang
+          repo: release
+          github_token: ${{ secrets.GH_PAT }}
+          github_user: lmquang
+          workflow_file_name: build-prod.yaml
+          ref: main
+          wait_interval: 10
+          trigger_workflow: true
+          wait_workflow: false
+      - uses: convictional/trigger-workflow-and-wait@v1.6.1
+        with:
+          owner: lmquang
+          repo: release
+          github_token: ${{ secrets.GH_PAT }}
+          github_user: lmquang
+          workflow_file_name: build-preview.yaml
+          ref: preview
+          wait_interval: 10
+          trigger_workflow: true
+          wait_workflow: false
