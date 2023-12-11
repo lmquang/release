@@ -3,9 +3,6 @@ on:
   push:
     branches:
       - develop
-
-env:
-  SHA: ${{ github.sha }}
       
 jobs:
   build:
