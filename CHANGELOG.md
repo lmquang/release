@@ -1,3 +1,11 @@
+# [0.16.0-rc.1](https://github.com/lmquang/release/compare/v0.15.1-rc.2...v0.16.0-rc.1) (2023-12-11)
+
+
+### Features
+
+* add sth ([cfc7fbc](https://github.com/lmquang/release/commit/cfc7fbc3604bc25c3055c7866cc754c29fcc30a2))
+* overwrite github sha ([c76e77a](https://github.com/lmquang/release/commit/c76e77a7a765329319bd51af1c79906dbce8410e))
+
 ## [0.15.1-rc.2](https://github.com/lmquang/release/compare/v0.15.1-rc.1...v0.15.1-rc.2) (2023-12-11)
 
 
